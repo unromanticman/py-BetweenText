@@ -13,7 +13,7 @@ text =  BetweenText.get('asd3get this text1231','asd3','1231')
 print text
 </pre>
 
-<b>orinin:</b>    
+<b>origin:</b>    
 asd3get this text1231  
 <b>result:</b>  
 get this text
